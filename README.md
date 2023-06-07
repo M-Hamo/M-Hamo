@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+## <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **Coding Skills.**
 - 🌱 I’m currently learning **Competitive programming and DSA.**
