@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Unit Testing && Design patterns.**
 - 👯 I’m looking to collaborate on **Frontend Web Projects using Angular+2 && React.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/M-Hamo?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mohamed eldeeb" height="30" width="40" /></a>
-- 💬 Ask me about **Angular, HTML and CSS.**
+- 💬 Ask me about **Angular, React.**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-hamo&theme=radical&hide_border=true"/>
