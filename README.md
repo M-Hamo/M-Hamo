@@ -3,11 +3,11 @@
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-## <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="40"> **About Me:**
+## <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="40" height="40" style="margin-bottom: -10px;"> **About Me:**
 
-- 🔭 I’m currently working on **Coding Skills.**
-- 🌱 I’m currently learning **Competitive programming and DSA.**
-- 👯 I’m looking to collaborate on **Angular and Web Projects.**
+- 🔭 I’m currently working at **<a href="https://www.softec.ai" target="_blank" rel="noreferrer"> Softec International </a>.**
+- 🌱 I’m currently learning **Unit Testing && Design patterns.**
+- 👯 I’m looking to collaborate on **Frontend Web Projects using Angular+2 && React.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/M-Hamo?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mohamed eldeeb" height="30" width="40" /></a>
 - 💬 Ask me about **Angular, HTML and CSS.**
 
