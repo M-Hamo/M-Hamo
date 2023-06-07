@@ -1,5 +1,5 @@
  <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Mohamed Eldeeb 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Mohamed Eldeeb. Front End Developer Who is Seeking a Web Developer position in a stable company where I can use my skills to benefit the company and gain the experience and enhance my skills that make me able to contribute to the development of my work to be an active member in my workplace and to perform the work entrusted to me professionally
+<h3 align="center">Hey it's me Mohamed Eldeeb. Front End Developer Who is Seeking a Web Developer position in a stable company where I can use my skills to benefit the company
 </h3>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
