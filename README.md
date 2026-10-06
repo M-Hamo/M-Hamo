@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:mohamed.eldeib5@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/mohamed-eldeeb-94a3b11a4/">LinkedIn</a> ·
   Cairo, Egypt
 </p>
 
