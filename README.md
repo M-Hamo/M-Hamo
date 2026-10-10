@@ -14,7 +14,7 @@
 
 ### Summary
 
-Frontend developer with **7+ years** of experience building scalable, accessible web applications with **Angular** and **React**. I specialize in large admin portals, reusable component libraries and design systems, with a strong focus on clean architecture, **SOLID** principles and well-tested code.
+Frontend developer with **6+ years** of experience building scalable, accessible web applications with **Angular** and **React**. I specialize in large admin portals, reusable component libraries and design systems, with a strong focus on clean architecture, **SOLID** principles and well-tested code.
 
 Currently at the **Real Estate General Authority (REGA)**, where I build **[REGA Material](https://www.npmjs.com/)**, an Angular component library based on the DGA design system and published on npm. Previously I delivered admin portals, booking systems, Microsoft Office Add-ins, Ionic mobile apps and bilingual Arabic/English platforms for companies in Egypt and Saudi Arabia.
 
